@@ -1,0 +1,14 @@
+body {
+  margin: 8px;
+  /* font-family: Times !important; */
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.download-btn {
+  height: 30px;
+}
