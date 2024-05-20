@@ -13,13 +13,13 @@ The Regulation Data App is divided into two main components:
 
 You can find the source code for this application at the following GitHub repository:
 
-[GitHub Repository Link](https://github.com/your-username/your-repository)
+[GitHub Repository Link](https://github.com/MoonRock000/Mancomm-Test-Project)
 
 ## Deployment
 
 The backend of this application is deployed on AWS Lambda. You can access the deployed backend API here:
 
-[AWS Lambda Deployment Link](https://your-lambda-url.aws.com)
+[AWS Lambda Deployment Link](https://0uxkgl6wuk.execute-api.us-east-1.amazonaws.com/default/)
 
 ### Available API Routes
 
